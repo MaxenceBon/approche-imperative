@@ -10,8 +10,8 @@ public class DeclarationApp {
 		short b = 4;
 		int c = 45;
 		long d = 236L;
-		float e = 1563F;
-		double f = 652135674D;
+		float e = 1563f;
+		double f = 652135674d;
 		char g = 'g';
 		boolean booleanTest = true;
 		String test = "hello";
