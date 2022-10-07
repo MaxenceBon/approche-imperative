@@ -15,8 +15,7 @@ public class ExerciceTableauChaines {
 		System.out.println(villes[1]);
 		System.out.println(villes[2]);
 		System.out.println(villes[3]);
-		System.out.println(villes[4]);
-		
+		System.out.println(villes[4]);		
 	}
 
 }
